@@ -35,7 +35,7 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     [
-      'chatosaurus',
+      'chatosaurus-ai',
       {
         apiKey: process.env.API_KEY
       }
