@@ -16,8 +16,8 @@ const config: Config = {
   baseUrl: '/test/',
 
   // GitHub pages deployment config.
-  organizationName: 'Chatosaurus',
-  projectName: 'Documentation',
+  organizationName: 'TessaVos',
+  projectName: 'docusaurus-demo',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
